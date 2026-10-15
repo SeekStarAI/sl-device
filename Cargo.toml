@@ -1,0 +1,8 @@
+[package]
+name = "sl-device"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Virtual device interface contracts for StarLight compute backends."
+repository = "https://github.com/SeekStarAI/sl-device"
+readme = "README.md"
