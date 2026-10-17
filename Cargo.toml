@@ -6,3 +6,6 @@ license = "MIT"
 description = "Virtual device interface contracts for StarLight compute backends."
 repository = "https://github.com/SeekStarAI/sl-device"
 readme = "README.md"
+
+[dependencies]
+sl-ir = "0.1.0"
